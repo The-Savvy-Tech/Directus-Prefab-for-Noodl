@@ -1,1 +1,3 @@
-Fork the repo and link a fresh Noodl project to the forked repo using the instructions provided in the Noodl [docs](https://noodlapp.github.io/noodl-docs/docs/guides/collaboration/migrating-from-noodl-hosted-git#hooking-it-up).
+## Detailed Docs for this prefab are located at -> 
+
+**https://docs.thesavvy.tech/s/overview**
